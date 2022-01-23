@@ -1,0 +1,10 @@
+1 - inicio
+2 - solicita data para cadastrar evento
+3 - se data for posterior à data atual continua cadastro
+4 - se não solicita nova data
+5 - solicita idade do palestrante/participante
+6 - se for idade for igual ou maior que 18 anos continua cadastro
+7 - se não informa que menores de 18 anos não pode se cadastrar e encerra
+8 - pesquisa a quantidade de inscritos
+9 - se for maior que 100 informa que excedeu limite de inscritos e encerra
+10 - se não faz inscrição e lista palestrantes/participante por evento
